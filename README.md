@@ -6,3 +6,4 @@ Traced from SA Modular rev 2.5 PCBs, to aid in troubleshooting
 The repository contains:
 
 * KiCad project files
+* Schematic in PDF format
